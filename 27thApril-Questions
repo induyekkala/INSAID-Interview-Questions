@@ -1,0 +1,34 @@
+1.	Work on Post casts.
+2.	Is there any proper way we can learn graphs-Strategy.
+Ans: yes, In seaborn statistical visualization select API ,it is one of the most simpler API to work on graphs and it is very simple to deploy than matplotlib .In the API majority of list of plots are list to be drawn.
+3.	What is a baseline model?
+Ans: In the practise of data science we always work first on baseline model. Baseline means simplest model, it also tell us we must not go accuracy lesser then this model.
+4.	What are the three ways of solving Linear Regression problem?
+1.	Ordinary Least Square 
+2.	Linear Algebra-Default method (Scikit-Learn)
+3.	Gradient Descent
+5.	Correlation doesn’t mean causation.
+Ans: Correlation is a linear relationship between two features. Correlation and Linear-Regression the majority difference is in Linear-Regression we see the relation between more than one or two columns, where as in correlation we see for eg: Newspaper vs Sales how both values are linearly growing with other.
+The line correlation doesn’t mean is causation-There is a relation but may not be a cause to other. 
+6. The magic function to draw the graph using matplotlib is:
+	# matplotlib inline.
+7. In python world there is no word like category, the python can understand only.
+1. Int
+2. Float
+3. Object- 
+For  categorical variables bt default it is object to convert into categorical we must use the type category. 
+8. What do you think having a peak is good or bad?
+Peak represents from the data that more values of data in that range.
+9. What do you mean by Normal Distribution
+Ans: Majority of the data centred around mean 
+10. Why do we use Joint Plot what is logical reason behind it.
+Ans: To find the peak (distribution) as well as the relationships.
+
+
+ 
+ 
+
+
+
+
+ 
